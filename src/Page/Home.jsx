@@ -5,7 +5,7 @@ const Home = () => {
   const homeImage = {
     title: "Salon Kecantikan Dengan Harga Terjangkau",
     children:
-      "Harga terjangkau dengan kualitas perawatan yang premium sehingga memberikan kepuasan pelanggan",
+      "Harga sangat terjangkau dengan kualitas perawatan yang premium sehingga memberikan kepuasan pelanggan",
   };
 
   const card = {
